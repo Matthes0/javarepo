@@ -20,3 +20,5 @@
 ![obraz](https://github.com/Matthes0/javarepo/assets/78498371/45b22398-a35a-4ca6-9a64-e5d31a9ae83e)
 ![obraz](https://github.com/Matthes0/javarepo/assets/78498371/e3f01b23-ee94-422a-995c-7366b495e9a4)
 ![obraz](https://github.com/Matthes0/javarepo/assets/78498371/af9ad129-5ca6-4f34-868b-f2d8f4e4d20f)
+[kol1_2021.pdf](https://github.com/Matthes0/javarepo/files/11463156/kol1_2021.pdf)
+[kol1_2023.pdf](https://github.com/Matthes0/javarepo/files/11463166/kol1_2023.pdf)
